@@ -1,8 +1,0 @@
-GUI Design Project Submission
-
-Student ID: 200058863
-Group Number: 24
-Course: CS312
-
-GitHub Repository:
-https://github.com/karenmagedd85-bit/Hotel-Reservation-System.git
